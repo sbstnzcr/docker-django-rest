@@ -1,1 +1,1 @@
-# docker-django-rest
+# Basic set up Docker | Django | Rest Framework
